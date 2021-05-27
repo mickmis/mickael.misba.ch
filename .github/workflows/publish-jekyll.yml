@@ -17,14 +17,8 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-            
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '14'
           
       - uses: helaili/jekyll-action@v2
         with:
           jekyll_src: .
           token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          EXECJS_RUNTIME: Node
