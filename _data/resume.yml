@@ -1,0 +1,367 @@
+basics:
+  name: Mickaël Misbach
+  label: Freelance Engineer
+  picture: ''
+  email: mickael@misba.ch
+  phone: "+41 79 881 01 38"
+  website: https://mickael.misba.ch
+  summary: 'TBD bio, what Id do etc. Cv: simplicity out of complex systems / Cv autonomy and independence / / Privacy & Security Software Architect / Freelance Software Architect & Engineer / a sweet spot for research'
+  location:
+    address: Rue de l'Avenir 25A
+    postalCode: '1020'
+    city: Renens
+    countryCode: CH
+    region: Vaud
+  profiles:
+    - network: GitHub
+      username: mickmis
+      url: https://github.com/mickmis
+    - url: https://www.linkedin.com/in/mickaelmisbach/
+      username: mickaelmisbach
+      network: LinkedIn
+    - url: https://twitter.com/Miscul
+      username: Miscul
+      network: Twitter
+    - url: https://t.me/mickmis
+      username: mickmis
+      network: Telegram
+    - network: ORCiD
+      url: https://orcid.org/0000-0003-2815-2594
+      username: 'TODO: check doc to see how to add social icon'
+    - network: ResearchGate
+      url: https://www.researchgate.net/profile/Mickael-Misbach
+
+work:
+  - company: Laboratory for Data Security, EPFL, Lausanne, Switzerland
+    position: Software Architect (privacy & Security)
+    website: https://lds.epfl.ch/
+    startDate: 2018-10-01
+    endDate:
+    summary: 'integration of privacy technologies in medical informatic systems / data protection for personalized health'
+    highlights:
+      - Students supervision, hiring and onboarding
+      - architecturing, designing of compelx distributed systems reachable via api / medco refactor and re-architecture
+      - supervison of code of team of 5, setting up of guidelines and best practices, code reviews, technical documentations
+      - contribution to early stage of startup tune insight MVP, architectured and deved a bit
+      - project management (?)
+      - coordnation security review etc. (kudelski)
+      - participation in academic projects (money put), publications,
+      - development of code, setting up CI/CD pipelines,
+      - end-2-end from academic publication to product
+
+  - company: The Hyve (Utrecht, NL)
+    position: Software Engineering Internship
+    website: https://thehyve.nl/
+    startDate: 2018-02-01
+    endDate: 2018-08-01
+    summary: |2-
+        - Extended cohort exploration front end Glowing Bear (*Angular*, *Typescript*) capabilities to *i2b2* and *MedCo* through a back end interoperability component (*Java EE*).
+      Implemented common authentication across components with *OpenID Connect* and *Keycloak*. TBD: wildfly // medco is poc
+    highlights:
+      - Java EE / WildFly
+      - OpenID Connect / OAuth2 / Keycloak
+
+  - company: Laboratory for Data Security, EPFL (Lausanne, CH)
+    position: Student Research Assistant
+    website: https://lds.epfl.ch
+    startDate: 2017-08-01
+    endDate: 2018-02-01
+    summary: "  - Project: *MedCo*, a privacy-preserving cohort explorer. Implemented
+    enhancements and made experiments for a scientific publication. Gave several talks
+    at a technical workshop. // medco is poc ou pas à voir "
+    highlights:
+      - ''
+
+  - company: CHUV (Lausanne, CH)
+    position: Research Internship in Medical Data Privacy
+    website: https://www.chuv.ch
+    startDate: 2017-02-01
+    endDate: 2017-08-01
+    summary: "  - Designed and implemented a privacy-preserving cohort explorer for
+    decentralized medical databases based on *i2b2* and *SHRINE* that performs distributed
+    operations on homomorphicly encrypted data. // medco poc ou pas à voir"
+    highlights:
+      - ''
+
+  - company: ProNet Services SA (Geneva, CH)
+    position: System Administrator and IT Manager (part-time)
+    website: https://pronetservices.ch
+    startDate: 2009-07-01
+    endDate: 2014-07-01
+    summary: "  - Set up and maintained servers, desktops, network, website and emails
+    for 2 offices and 15 end-users. TBD: what services on server (shared calendar,
+    central auth, etc.) part time - highlight: supported admin stuff for a company "
+    highlights:
+      - 'Set up and maintained an on-premise server with file-sharing capabilities and
+    calendar and print server, '
+
+volunteer:
+  - organization: University Disciplinary Board, EPFL
+    position: Disciplinary Board Student Representative
+    website: https://epfl.ch
+    startDate: '2012-12-01'
+    endDate: '2018-02-01'
+    summary: |-
+      Collaborated with university lawyers to take decision after inquiry  on \textasciitilde10 disciplinary cases per year.}
+      %5 to 10 disciplinary cases per year, collaboration with EPFL lawyers to take decision after inquiry.
+    highlights:
+      - 5-10 disciplinary cases
+
+  - organization: EPFL CS Students Association (CLIC)
+    position: Fundraising Manager for Study Trip to Japan
+    website: https://clic.epfl.ch
+    startDate: '2015-04-01'
+    endDate: '2015-09-01'
+    summary: "{Raised 3k+ CHF with sponsorship and sales events.}"
+    highlights:
+      - ''
+
+  - organization: EPFL CS Students Association (CLIC)
+    position: IT Manager
+    website: https://clic.epfl.ch
+    startDate: '2013-10-01'
+    endDate: '2014-10-01'
+    summary: |-
+      {%Official students association of the School of Computer and Communication Sciences, 10 active members and 20K CHF budget.
+      Managed IT of the association's resources and organized \textasciitilde300 visitors events.}
+    highlights:
+      - ''
+
+  - organization: General Students' Association of EPFL (AGEPoly)
+    position: President of the Association
+    website: https://agepoly.ch
+    startDate: '2012-08-01'
+    endDate: '2013-08-01'
+    summary: "%EPFL's official and general students association, 7K members, 400 active,
+    2 employees, 18 subcommittees and 1.5M CHF budget.\nManaged human resources (7k+
+    members, 2 employees, 18 subcommittees), legal and finances (1.5M CHF budget),
+    \nofficially represented EPFL students \nand organized 5k+ visitors events."
+    highlights:
+      - ''
+
+  - organization: University Campus First-Aid Team, EPFL
+    position: Certified First Responder
+    website: https://www.epfl.ch/campus/security-safety/secours/secouristes/
+    startDate: '2013-03-01'
+    endDate: '2019-09-01'
+    summary: |-
+      %10+ certifications obtained
+      {}
+      {Presence at \textasciitilde30 first-aid stations per year, emergency response on campus and ongoing training.
+      %Ongoing training, presence at first-aid stations during events and emergency response on campus. 10+ different certifications obtained.
+    highlights:
+      - ''
+
+  - organization: General Students' Association of EPFL (AGEPoly)
+    position: IT and Logistic Manager
+    website: https://agepoly.ch
+    startDate: '2011-11-01'
+    endDate: '2012-08-01'
+    summary: |-
+      {Managed IT (servers and virtual machines), organized and managed logistics for 5k+ visitors events.
+      %
+      %System administration Maintenance of servers, desktops, groupwares, website, emails and support to users.
+      %Several specific developments.
+      %Responsible for logistics of events with up to 5K visitors.
+    highlights:
+      - Organized and managed logistics for several 5k+ visitors festive events.
+      - Created a Drupal-based web shop to sell premium customizable watches and other items such as laptop sleeves or custom clothes for an association (AGEPoly, agepoly.ch).
+
+education:
+  - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+    area: Communication Systems, Specialization in Information Security
+    studyType: Master
+    startDate: '2015-09-01'
+    endDate: '2018-09-01'
+    gpa: ''
+    courses:
+      - Cryptography and Security
+      - Privacy Protection
+      - Media Security
+      - Biometrics
+      - Pattern Classification and Machine Learning
+      - TCP/IP and Mobile Networking
+      - Distributed Information Systems
+      - Information Theory and Coding
+
+  - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+    area: Communication Systems
+    studyType: Bachelor
+    startDate: '2010-09-01'
+    endDate: '2015-09-01'
+    gpa: ''
+    courses:
+      - Software Engineering
+      - Object-Oriented, System and Concurrent Programming
+      - Networks and Networks Security
+      - Database Systems
+      - Algorithms
+      - Signal Processing
+
+  - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+    area: Cours de Mathématiques Spéciales
+    studyType: Intensive undergraduate mathematics courses
+    startDate: '2009-09-01'
+    endDate: '2010-09-01'
+    gpa: ''
+    courses:
+      - ''
+
+  - institution: Lycée de la Versoie (Thonon-les-Bains, FR)
+    area: Science major
+    studyType: Highschool
+    startDate: '2006-09-01'
+    endDate: '2009-09-01'
+    gpa: ''
+    courses:
+      - ''
+
+publications:
+  - website: https://www.biorxiv.org/content/10.1101/799999v1.abstract
+    summary: |-
+      **Authors**: D Grishin, JL Raisaro, JR Troncoso-Pastoriza, K Obbad, K Quinn, *M Misbach*, J Gollhardt, J Sa, J Fellay, G M. Church and JP Hubaux
+
+      **Abstract**: The growing number of health-data breaches, the use of genomic databases for law enforcement purposes and the lack of transparency of personal-genomics companies are raising unprecedented privacy concerns. To enable a secure exploration of genomic datasets with controlled and transparent data access, we propose a novel approach that combines cryptographic privacy-preserving technologies, such as homomorphic encryption and secure multi-party computation, with the auditability of blockchains. This approach provides strong security guarantees against realistic threat models by empowering individual citizens to decide who can query and access their genomic data and by ensuring end-to-end data confidentiality. Our open-source implementation supports queries on the encrypted genomic data of hundreds of thousands of individuals, with minimal overhead. Our work opens a path towards multi-functional, privacy-preserving genomic-data analysis.
+    name: 'Journal Article: Citizen-Centered, Auditable, and Privacy-Preserving Population
+    Genomics'
+    publisher: Nature Computational Science
+    releaseDate: '2021-02-01'
+  - website: https://pubmed.ncbi.nlm.nih.gov/32570563/
+    summary: |-
+      **Authors**: JL Raisaro, JR Troncoso-Pastoriza, S Pradervand, M Cuendet, *M Misbach*, J Sa, F Marino, N Freundler, N Rosat, D Cavin, A Leichtle, J Fellay, O Michielin, JP Hubaux.
+
+      **Abstract**: MedCo is the first operational system that makes sensitive medical-data available for research in a simple, privacy-conscious and secure way. It enables a consortium of clinical sites to collectively protect their data and to securely share them with investigators, without single points of failure. In this short paper, we report on our ongoing effort for the operational deployment of MedCo within the context of the Swiss Personalized Health Network (SPHN) for the Swiss Molecular Tumor Board.
+    name: 'Journal Article: SPHN/PHRT-MedCo in Action: Empowering the Swiss Molecular
+    Tumor Board with Privacy-Preserving and Real-Time Patient Discovery'
+    releaseDate: '2020-06-01'
+    publisher: Studies in Health Technology and Informatics
+  - website: https://pubmed.ncbi.nlm.nih.gov/32570398/
+    summary: |-
+      **Authors**: D Froelicher, *M Misbach*, JR Troncoso-Pastoriza, JL Raisaro and JP Hubaux.
+
+      **Abstract**: Medical studies are usually time consuming, cumbersome and extremely costly to perform, and for exploratory research, their results are also difficult to predict a priori. This is particularly the case for rare diseases, for which finding enough patients is difficult and usually requires an international-scale research. In this case, the process can be even more difficult due to the heterogeneity of data-protection regulations, making the data sharing process particularly hard. In this short paper, we propose MedCo2 (pronounced MedCo square), a distributed system that streamlines the process of a medical study by bridging and enabling both data discovery and data analysis among multiple databases, while protecting data confidentiality and patients’ privacy. MedCo2 relies on interactive protocols, homomorphic encryption and differential privacy. It enables the privacy-preserving computations of multiple statistics such as cosine similarity and variance, and the training of machine learning models, on patients that are obliviously selected according to specific criteria among multiple databases.
+    name: 'Journal Article: MedCo2: Privacy-Preserving Cohort Exploration and Analysis'
+    publisher: Studies in Health Technology and Informatics
+    releaseDate: '2020-06-01'
+  - website: https://ieeexplore.ieee.org/abstract/document/8410926
+    summary: |-
+      **Authors**: JL Raisaro, JR Troncoso-Pastoriza, *M Misbach*, JS Sousa, S Pradervand, E Missiaglia, O Michielin, B Ford and JP Hubaux.
+
+      **Abstract**: The increasing number of health-data breaches is creating a complicated environment for medical-data sharing and, consequently, for medical progress. Therefore, the development of new solutions that can reassure clinical sites by enabling privacy-preserving sharing of sensitive medical data in compliance with stringent regulations (e.g., HIPAA, GDPR) is now more urgent than ever. In this work, we introduce MedCo, the first operational system that enables a group of clinical sites to federate and collectively protect their data in order to share them with external investigators without worrying about security and privacy concerns. MedCo uses (a) collective homomorphic encryption to provide trust decentralization and end-to-end confidentiality protection, and (b) obfuscation techniques to achieve formal notions of privacy, such as differential privacy. A critical feature of MedCo is that it is fully integrated within the i2b2 (Informatics for Integrating Biology and the Bedside) framework, currently used in more than 300 hospitals worldwide. Therefore, it is easily adoptable by clinical sites. We demonstrate MedCo's practicality by testing it on data from The Cancer Genome Atlas in a simulated network of three institutions. Its performance is comparable to the ones of SHRINE (networked i2b2), which, in contrast, does not provide any data protection guarantee.
+    name: 'Journal Article: MedCo: Enabling Secure and Privacy-Preserving Exploration
+    of Distributed Clinical and Genomic Data'
+    publisher: IEEE/ACM transactions on computational biology and bioinformatics
+    releaseDate: '2019-07-01'
+  - website: https://i2b2transmart.org/europe-fall-meeting-2018/
+    summary: 'Conference held at the Campus Biotech in Geneva. '
+    releaseDate: '2018-11-01'
+    name: 'Talk: A common and privacy-preserving front-end for open-source clinical
+    research platforms'
+    publisher: 6th European i2b2 tranSMART Academic User Group Conference, Geneva
+  - name: 'Master Thesis: Building a common and privacy-preserving front end for open-source
+    clinical research platforms'
+    publisher: ''
+    releaseDate: '2018-09-01'
+    website: https://infoscience.epfl.ch/record/283388
+    summary: "**Abstract**: Being able to exploit large and heterogeneous medical data
+    is crucial for realizing the promise of precision medicine to its full potential.
+    Yet, currently, due to the presence of multiple and fragmented systems at different
+    clinical sites, it is often difficult to enable researchers to access the data
+    they need. Privacy and security concerns also represent major obstacles that need
+    to be overcome in order to provide access to sensitive medical data that are usually
+    not exposed by clinical sites for the fear of data leaks. To address these challenges,
+    we propose a system that employs Glowing Bear as a common front end to the widespread
+    clinical research platforms i2b2, tranSMART and MedCo. Our proposed system uses
+    IRCT, the official implementation of the PIC-SURE API, which acts as an interoperability
+    layer that translates clinical research queries into native API languages. With
+    our work, we take a step towards the technical convergence of i2b2 and tranSMART,
+    giving clinical sites the means to share their data more easily. Even more, with
+    the support of MedCo, a cohort explorer with strong privacy and security guarantees
+    based on federated i2b2 instances, we enable clinical sites to share sensitive
+    data that would be difficult to share otherwise."
+  - website: https://www.thehyve.nl/articles/pan-european-health-data-networks-meeting
+    summary: Meeting held at the Netherlands Cancer Institute (Antoni van Leeuwenhoek)
+      in Amsterdam.
+    name: 'Talk: MedCo: Enabling Secure and Privacy-Preserving Exploration of Distributed
+    Clinical and Genomic Data'
+    releaseDate: '2018-05-01'
+    publisher: Pan-European Health Research Data Networks Meeting
+
+  - name: i2b2-MedCo Technical Workshop
+    releaseDate: '2018-01-17'
+    website: https://drive.google.com/drive/folders/1TzRUTBKVVJ-TgAobEm74nDh4FPhctCTc
+    summary: |-
+      one day i2b2, shrine and MedCo
+      **Authors**: JL Raisaro, JR Troncoso-Pastoriza, *M Misbach*, JS Sousa, S Pradervand, E Missiaglia, O Michielin, B Ford and JP Hubaux.
+
+      **Abstract**: Being able to share large amounts of sensitive clinical and genomic data across several institutions is crucial for precision medicine to scale up. Unfortunately, existing solutions only partially address this challenge and are still unable to provide the strong privacy and security guarantees required by regulations (e.g., HIPAA, GDPR). As a result, currently only very limited datasets of non-sensitive and moderately useful information can be shared. In this paper, we introduce MedCo, the first operational system that enables an investigator to explore sensitive medical information distributed at several sites and protected with collective homomorphic encryption. MedCo builds on top of established and widespread technology from the biomedical informatics community, such as i2b2 and SHRINE, and relies on state-of-the-art secure protocols for processing encrypted distributed data and complying with regulations. As such, MedCo can be easily adopted by clinical sites thus paving the way to new unexplored data-sharing use cases. We tested MedCo in a real network of three institutions (EPFL, UNIL and CHUV) by focusing on an oncology use-case with real somatic mutations and clinical tumor data. The relatively low overhead introduced by MedCo shows that it represents a concrete and scalable solution for sharing privacy-conscious medical data.
+    publisher: EPFL LDS
+
+  - website: https://infoscience.epfl.ch/record/232605/files/GenoPri17_paper_6_CAMERA_READY.pdf
+    summary: |-
+      **Authors**: JL Raisaro, JR Troncoso-Pastoriza, *M Misbach*, JS Sousa, S Pradervand, E Missiaglia, O Michielin, B Ford and JP Hubaux.
+
+      **Abstract**: Being able to share large amounts of sensitive clinical and genomic data across several institutions is crucial for precision medicine to scale up. Unfortunately, existing solutions only partially address this challenge and are still unable to provide the strong privacy and security guarantees required by regulations (e.g., HIPAA, GDPR). As a result, currently only very limited datasets of non-sensitive and moderately useful information can be shared. In this paper, we introduce MedCo, the first operational system that enables an investigator to explore sensitive medical information distributed at several sites and protected with collective homomorphic encryption. MedCo builds on top of established and widespread technology from the biomedical informatics community, such as i2b2 and SHRINE, and relies on state-of-the-art secure protocols for processing encrypted distributed data and complying with regulations. As such, MedCo can be easily adopted by clinical sites thus paving the way to new unexplored data-sharing use cases. We tested MedCo in a real network of three institutions (EPFL, UNIL and CHUV) by focusing on an oncology use-case with real somatic mutations and clinical tumor data. The relatively low overhead introduced by MedCo shows that it represents a concrete and scalable solution for sharing privacy-conscious medical data.
+    publisher: GenoPri'17
+    name: 'Conference Paper: MedCo: Enabling Privacy-Conscious Exploration of Distributed
+    Clinical and Genomic Data'
+    releaseDate: '2017-10-01'
+
+skills:
+  - name: Backend
+    level: 3/3
+    keywords:
+      - Golang
+      - Java (EE / WildFly)
+      - SQL
+  - name: Frontend
+    level: 2/3
+    keywords:
+      - Typescript
+      - Angular
+      - rxjs
+  - name: DevOps & x
+    level: 2/3?
+    keywords:
+      - Bash
+      - Docker
+      - Git
+      - Linux System Administration
+      - Swagger / OpenAPI
+  - name: Seucrity privacy
+    level: ''
+    keywords:
+      - OpenID Connect / OAtuh2 / SAML
+      - Keycloak / Identity Provider
+      - OWASP
+  - name: Soft skills
+    keywords:
+      - Autonomy
+      - Independence
+      - Responsibility
+      - Fast learner
+      - Problem solver
+  - name: Medical Informatics
+    keywords:
+      - i2b2
+      - Glowing Bear
+      - SHRINE
+      - TranSMART
+      - Data pipelines / ingestion
+
+languages:
+  - language: French
+    fluency: Native
+  - language: English
+    fluency: Fluent
+
+interests:
+  - name: Badminton
+  - name: Cooking
+  - name: DIY
+  - name: 3D Printing
+  - name: Travelling and exploration
+
+references: []
+awards: []
+meta:
