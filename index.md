@@ -10,7 +10,8 @@ about me: mention badminton, board games, other hobbies, 3d printing? (example f
 believe in simplicity, small teams
 {:/comment}
 
-{::comment} temp disabled, finish it
+{::comment}
+temp disabled, finish it
 # About me
 I am a software engineer based in *Suisse Romande* Lausanne, Switzerland, available for freelance work.
 I am a freelance engineer based in Switzerland, offering consulting and services around areas of software systems security, software architecturing and engineering, and IT solutions.
