@@ -26,3 +26,5 @@ jobs:
         with:
           jekyll_src: .
           token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          EXECJS_RUNTIME: Node
