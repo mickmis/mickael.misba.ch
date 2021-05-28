@@ -51,7 +51,7 @@ languages: add cpp?
 {:/comment}
 
 # Services
-I offer services in any of my following skill-set. [Get in touch with me!](/contact)
+I offer services within the following skill-set. [Get in touch with me!](/contact)
 
 ## Software engineering
 - Architecture of complex, distributed and secure software systems
@@ -67,6 +67,6 @@ With a focus in the following areas of expertise:
 
 ## Software systems / IT solutions
 Deployment, management, customization, definition of data pipelines, support, advices, etc. for specific solutions:
-- Identity and Access Management (IAM) systems based on [Keycloak](https://www.keycloak.org/);
-- Clinical data warehousing systems based on [i2b2](https://www.i2b2.org/software/index.html) and [SHRINE](https://community.i2b2.org/wiki/display/SHRINE);
-- Cloud-based enterprise IT solutions based on [Google Workspace](https://workspace.google.com/) (previously Google Apps / Gsuite).
+- Identity and Access Management (IAM) systems based on [Keycloak](https://www.keycloak.org/)
+- Clinical data warehousing systems based on [i2b2](https://www.i2b2.org/software/index.html) and [SHRINE](https://community.i2b2.org/wiki/display/SHRINE)
+- Cloud-based enterprise IT solutions based on [Google Workspace](https://workspace.google.com/) (previously Google Apps / Gsuite)
