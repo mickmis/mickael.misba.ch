@@ -13,6 +13,29 @@
   }
 }
 
+// remove unused keywords in interests
+#interests + .skills {
+  >dt:after {
+    content: '';
+  }
+
+  >dd {
+    display: none;
+  }
+}
+
+.tricolumns {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tricolumn {
+  width: 17rem;
+
+  h3{
+    margin-top: 1rem;
+  }
+}
+
 // .lead.aspect-ratio.sixteen-nine { 
 //   border: 1px solid var(--border-color);
 //   transition: border-color 500ms ease;

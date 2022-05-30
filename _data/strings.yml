@@ -124,18 +124,18 @@ resume:
   email:               Email
   phone:               Phone
   website:             Website
-  work:                Experience
-  work_title:          <!--position--> at <!--company-->
+  work:                Professional Experience
+  work_title:          <!--position-->, <!--company-->
   highlights:          Highlights
-  volunteer:           Volunteer
+  volunteer:           Volunteering Experience
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
-  courses:             Courses
+  education_title:     <!--study_type--> in <!--area--> from <!--institution-->
+  courses:             Highlights
   awards:              Awards
   awards_title:        <!--title--> from <!--awarder-->
-  publications:        Talks & Publications
-  publications_title:  <!--name--> by <!--publisher-->
+  publications:        Publications & Talks
+  publications_title:  <!--name--> in <!--publisher-->
   references:          References
   languages:           Languages
   fluency:             Fluency

@@ -25,18 +25,19 @@ title: Mickaël Misbach
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Mickaël Misbach is an independent consulting engineer based in Switzerland with an expertise in the areas of software 
+  engineering, information security and IT solutions.
 
 # A shorter description for the sidebar.
-tagline: Freelance Engineer
+tagline: Consulting Engineer, Ing. dipl. EPF
 
 # A list of keywords for your blog
-keywords: [software engineer, software architect, switzerland, suisse, lausanne, geneva, romandie, suisse romande]
+#keywords: [software engineer, software architect, switzerland, suisse, lausanne, geneva, romandie, suisse romande, freelance, keycloak, iam, identity and access management, ingénieur]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
+#logo: /assets/img/logo_only_rect.png
 logo: /assets/img/profile-pic-attempt-2.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
@@ -45,23 +46,23 @@ author:
   name: Mickaël Misbach
   email: mickael@misba.ch
   # # Used by `jekyll-seo-tag`:
-  twitter: Miscul
+  twitter: mick_mis
 
 # Add links to the sidebar.
-#menu:
-#  - title:             Projects
-#    url:               /projects/
-#  - title:             Curriculum Vitæ
-#    url:               /cv/
+menu:
+  - title: Curriculum Vitæ
+    url:   /cv/
+#  - title: Portfolio
+#    url:   /portfolio/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             CONTACT
-    url:               /contact/
+#legal:
+#  - title:             CONTACT
+#    url:               mailto:mickael@misba.ch
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2021 Mickaël Misbach. All rights reserved.
+copyright: © 2021-2022 Mickaël Misbach. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -297,8 +298,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  portfolio:
+    permalink:         /portfolio/:path/
     output:            true
 
 
@@ -363,7 +364,7 @@ plugins:
 social:
   name: Mickaël Misbach
   links:
-    - https://twitter.com/Miscul
+    - https://twitter.com/mick_mis
     - https://github.com/mickmis
 
 
@@ -413,7 +414,7 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
-    projects:
+    portfolio:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
