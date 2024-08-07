@@ -10,12 +10,12 @@ basics:
   phone: "+41 79 881 01 38"
   website: https://mickael.misba.ch
   summary: ''
-  location:
-    address: Rue de l'Avenir 25A
-    postalCode: '1020'
-    city: Renens
-    countryCode: CH
-    region: Vaud
+#  location:
+#    address: x
+#    postalCode: 'x'
+#    city: x
+#    countryCode: x
+#    region: x
   profiles:
     - network: GitHub
       username: mickmis
@@ -81,6 +81,15 @@ interests:
   - name: Board games
 
 work:
+  - company: Orbitalize SA (Geneva / Remote)
+    position: Senior Software Engineer (80%)
+    website: https://orbitalize.com
+    startDate: '2023-01-01'
+    endDate: ''
+    summary: >
+      Software engineering for digital unmanned aviation.
+    #  x
+
   - company: M. Misbach Ingénieur-Conseil, Ing. dipl. EPF (Lausanne)
     position: Consulting Engineer
     website: https://mm-ing.ch/
