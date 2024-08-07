@@ -25,11 +25,10 @@ title: Mickaël Misbach
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Mickaël Misbach is an independent consulting engineer based in Switzerland with an expertise in the areas of software 
-  engineering, information security and IT solutions.
+  Mickaël Misbach is a senior software engineer based in Switzerland with an expertise in the areas of unmanned aviation and information security.
 
 # A shorter description for the sidebar.
-tagline: Consulting Engineer, Ing. dipl. EPF
+tagline: Senior Software Engineer
 
 # A list of keywords for your blog
 #keywords: [software engineer, software architect, switzerland, suisse, lausanne, geneva, romandie, suisse romande, freelance, keycloak, iam, identity and access management, ingénieur]
